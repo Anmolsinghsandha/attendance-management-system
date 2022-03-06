@@ -1,8 +1,8 @@
 <?php
-DEFINE('DB_USER','root');
-DEFINE('DB_PASS','');
-DEFINE('DB_HOST','localhost');
-DEFINE('DB_DB','attendance');
+DEFINE('DB_USER','u5bzqyjyfgiqqppz');
+DEFINE('DB_PASS','fCDNzgo6fe9CZatHE2IV');
+DEFINE('DB_HOST','bi8ojyxk04q87n1nvwba-mysql.services.clever-cloud.com');
+DEFINE('DB_DB','bi8ojyxk04q87n1nvwba');
 DEFINE('EMAIL',1);
 DEFINE('PHONE',2);
 DEFINE('ROLL',3);
